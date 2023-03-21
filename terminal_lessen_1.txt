@@ -1,3 +1,0 @@
-pwd
-find $(pwd) -name filesname
-grep -r
